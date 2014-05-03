@@ -6,15 +6,33 @@ Hello! I'm Christian, a web developer who loves building things for the web.
 About
 -----
 
-I started programming in school and now work on websites and small web
-applications for local businesses. I'm always learning something new.
+I build websites and single page applications. Lately I've been diving into
+the MEAN stack and writing more JavaScript on the server side.
 
 Skills
 ------
 
-* HTML5 / CSS3
+**Front-end**
+
+* HTML5 / CSS3 / Sass
 * JavaScript / jQuery
-* PHP (CodeIgniter, a little Laravel)
-* MySQL
-* Twitter Bootstrap 3
-* WordPress themes and plugins
+* AngularJS
+* Bootstrap 3
+
+**Back-end**
+
+* PHP (Laravel, CodeIgniter)
+* Node.js / Express
+* MySQL / MongoDB
+
+**Tools**
+
+* Git
+* Grunt / Bower
+* Sublime Text
+
+Currently
+---------
+
+* Learning: unit testing with Jasmine and Karma
+* Working on: an AngularJS dashboard for a client project
