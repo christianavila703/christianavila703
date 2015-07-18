@@ -1,38 +1,41 @@
 Christian
 =========
 
-Hello! I'm Christian, a web developer who loves building things for the web.
+Hi, I'm Christian - a full-stack JavaScript developer.
 
 About
 -----
 
-I build websites and single page applications. Lately I've been diving into
-the MEAN stack and writing more JavaScript on the server side.
+I build web applications from front to back. I enjoy clean code, fast
+interfaces and learning new tools. Recently I've been moving from AngularJS
+to React and writing ES2015 every day.
 
 Skills
 ------
 
 **Front-end**
 
-* HTML5 / CSS3 / Sass
-* JavaScript / jQuery
+* JavaScript (ES5 / ES2015)
+* React / Flux
 * AngularJS
-* Bootstrap 3
+* HTML5 / CSS3 / Sass / Bootstrap
 
 **Back-end**
 
-* PHP (Laravel, CodeIgniter)
 * Node.js / Express
-* MySQL / MongoDB
+* PHP (Laravel)
+* MongoDB / MySQL
+* RESTful APIs
 
 **Tools**
 
-* Git
-* Grunt / Bower
-* Sublime Text
+* Git / GitHub
+* Gulp / Webpack / Babel
+* npm
+* Mocha / Chai
 
 Currently
 ---------
 
-* Learning: unit testing with Jasmine and Karma
-* Working on: an AngularJS dashboard for a client project
+* Learning: Redux and functional programming
+* Working on: migrating a large AngularJS app to React
