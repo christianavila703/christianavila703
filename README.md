@@ -1,41 +1,24 @@
-Christian
-=========
+# Christian
 
-Hi, I'm Christian - a full-stack JavaScript developer.
+**Full-Stack Developer** · JavaScript · Node.js · React
 
-About
------
+## About Me
 
-I build web applications from front to back. I enjoy clean code, fast
-interfaces and learning new tools. Recently I've been moving from AngularJS
-to React and writing ES2015 every day.
+I'm a full-stack developer with a passion for building fast, maintainable web
+applications. I've spent the last few years working on everything from small
+business websites to single page apps used by thousands of people every day.
 
-Skills
-------
+## Skills
 
-**Front-end**
+| Area      | Technologies                                      |
+|-----------|---------------------------------------------------|
+| Languages | JavaScript (ES2015), PHP, SQL                     |
+| Front-end | React, Redux, AngularJS, Sass, Bootstrap          |
+| Back-end  | Node.js, Express, Laravel, REST APIs              |
+| Databases | MongoDB, MySQL, Redis                             |
+| Tools     | Git, Webpack, Babel, Gulp, Mocha, Docker          |
 
-* JavaScript (ES5 / ES2015)
-* React / Flux
-* AngularJS
-* HTML5 / CSS3 / Sass / Bootstrap
+## Currently
 
-**Back-end**
-
-* Node.js / Express
-* PHP (Laravel)
-* MongoDB / MySQL
-* RESTful APIs
-
-**Tools**
-
-* Git / GitHub
-* Gulp / Webpack / Babel
-* npm
-* Mocha / Chai
-
-Currently
----------
-
-* Learning: Redux and functional programming
-* Working on: migrating a large AngularJS app to React
+- Building React + Redux applications with server-side rendering
+- Exploring Docker for local development and deployments
