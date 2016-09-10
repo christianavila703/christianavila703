@@ -1,24 +1,26 @@
 # Christian
 
-**Full-Stack Developer** · JavaScript · Node.js · React
+**Software Engineer** · Full-Stack · JavaScript · Python
 
 ## About Me
 
-I'm a full-stack developer with a passion for building fast, maintainable web
-applications. I've spent the last few years working on everything from small
-business websites to single page apps used by thousands of people every day.
+I'm a software engineer with several years of experience building web
+applications end to end. I care about clean architecture, good tests and
+shipping products that people enjoy using. This year I've been working more
+with Python and running applications on AWS.
 
 ## Skills
 
 | Area      | Technologies                                      |
 |-----------|---------------------------------------------------|
-| Languages | JavaScript (ES2015), PHP, SQL                     |
-| Front-end | React, Redux, AngularJS, Sass, Bootstrap          |
-| Back-end  | Node.js, Express, Laravel, REST APIs              |
-| Databases | MongoDB, MySQL, Redis                             |
-| Tools     | Git, Webpack, Babel, Gulp, Mocha, Docker          |
+| Languages | JavaScript (ES2015+), Python, PHP, SQL            |
+| Front-end | React, Redux, AngularJS, Sass                     |
+| Back-end  | Node.js, Express, Django, Flask, REST APIs        |
+| Databases | PostgreSQL, MongoDB, MySQL, Redis                 |
+| Cloud     | AWS (EC2, S3, RDS, Lambda), Heroku                |
+| Tools     | Git, Webpack, Docker, Jenkins, Jest               |
 
 ## Currently
 
-- Building React + Redux applications with server-side rendering
-- Exploring Docker for local development and deployments
+- Designing REST APIs with Django REST Framework
+- Learning serverless architectures with AWS Lambda
