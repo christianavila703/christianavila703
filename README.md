@@ -1,26 +1,32 @@
 # Christian
 
-**Software Engineer** · Full-Stack · JavaScript · Python
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+
+**Software Engineer** · Full-Stack · JavaScript / TypeScript · Python
 
 ## About Me
 
-I'm a software engineer with several years of experience building web
-applications end to end. I care about clean architecture, good tests and
-shipping products that people enjoy using. This year I've been working more
-with Python and running applications on AWS.
+I'm a software engineer building scalable web applications and APIs. I enjoy
+working across the whole stack, from polished React interfaces to reliable
+backend services running in containers.
 
 ## Skills
 
-| Area      | Technologies                                      |
-|-----------|---------------------------------------------------|
-| Languages | JavaScript (ES2015+), Python, PHP, SQL            |
-| Front-end | React, Redux, AngularJS, Sass                     |
-| Back-end  | Node.js, Express, Django, Flask, REST APIs        |
-| Databases | PostgreSQL, MongoDB, MySQL, Redis                 |
-| Cloud     | AWS (EC2, S3, RDS, Lambda), Heroku                |
-| Tools     | Git, Webpack, Docker, Jenkins, Jest               |
+| Area      | Technologies                                        |
+|-----------|-----------------------------------------------------|
+| Languages | JavaScript (ES2017), TypeScript, Python, SQL        |
+| Front-end | React, Redux, Angular, React Native                 |
+| Back-end  | Node.js, Express, Django, GraphQL, REST             |
+| Databases | PostgreSQL, MongoDB, Redis, Elasticsearch           |
+| Cloud     | AWS (EC2, S3, RDS, Lambda, CloudFront)              |
+| DevOps    | Docker, Docker Compose, Jenkins, Travis CI          |
 
 ## Currently
 
-- Designing REST APIs with Django REST Framework
-- Learning serverless architectures with AWS Lambda
+- Moving our frontend to TypeScript
+- Replacing REST endpoints with a GraphQL API (Apollo)
