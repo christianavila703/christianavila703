@@ -7,30 +7,29 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 
-**Software Engineer** · Full-Stack · Cloud · Machine Learning
+**Senior Software Engineer** · Full-Stack · Cloud · Machine Learning
 
 ## About Me
 
-Software engineer with 5 years of experience designing and building web
-platforms. I work across the full stack and enjoy breaking monoliths into
-well-defined services, automating deployments and adding machine learning
-where it makes a real difference.
+Senior software engineer with 5+ years of experience building and scaling web
+platforms. I lead features from design to production, mentor other engineers
+and help teams ship reliable software faster.
 
 ## Skills
 
-| Area             | Technologies                                         |
-|------------------|------------------------------------------------------|
-| Languages        | JavaScript, TypeScript, Python, SQL                  |
-| Front-end        | React, Redux, Angular, React Native                  |
-| Back-end         | Node.js, Express, Django, GraphQL, gRPC              |
-| Databases        | PostgreSQL, MongoDB, Redis, Elasticsearch            |
-| Cloud            | AWS (ECS, EKS, Lambda, RDS, S3), GCP                 |
-| DevOps           | Docker, Kubernetes, Helm, Jenkins, CircleCI          |
-| Machine Learning | TensorFlow, Keras, scikit-learn, pandas              |
+| Area             | Technologies                                          |
+|------------------|-------------------------------------------------------|
+| Languages        | TypeScript, JavaScript, Python, Go, SQL               |
+| Front-end        | React, Next.js, Redux, Angular, React Native          |
+| Back-end         | Node.js, NestJS, Express, Django, GraphQL, gRPC       |
+| Databases        | PostgreSQL, MongoDB, Redis, Elasticsearch             |
+| Cloud            | AWS, GCP                                              |
+| DevOps           | Docker, Kubernetes, Helm, Terraform, CircleCI         |
+| Machine Learning | PyTorch, TensorFlow, scikit-learn, pandas             |
 
 ## Currently
 
-- Migrating services to Kubernetes
-- Building CI/CD pipelines with automated testing and zero-downtime deploys
+- Leading a team building a Next.js + NestJS platform
+- Exploring PyTorch for NLP projects
