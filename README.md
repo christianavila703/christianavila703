@@ -1,6 +1,6 @@
 ## Hi there, I'm Christian 👋
 
-**Senior Software Engineer** | Full-Stack & Machine Learning | 7+ years of experience
+**Senior Software Engineer** | Full-Stack & Machine Learning | 8+ years of experience
 
 - 🔭 I'm currently building cloud-native SaaS products and ML-powered features
 - 🌱 I'm currently learning MLOps: model serving, monitoring and feature stores
@@ -34,6 +34,7 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 **Machine Learning**
@@ -43,5 +44,7 @@
 
 ### 📊 GitHub Stats
 
-![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=christianavila703&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christianavila703&layout=compact&theme=radical)
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=christianavila703&show_icons=true&hide_border=true&bg_color=00000000" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianavila703&layout=compact&hide_border=true&bg_color=00000000" />
+</p>
