@@ -1,11 +1,11 @@
 ## Hi there, I'm Christian 👋
 
-**Senior Software Engineer** | Full-Stack & Machine Learning | 9+ years of experience
+**Senior Software Engineer** | Full-Stack & AI | 10 years of experience
 
-- 🔭 Building cloud-native products with ML at their core
-- 🧠 Shipping NLP features with Hugging Face Transformers
-- ⚙️ Running models in production with MLflow, Docker and Kubernetes
-- 💬 Ask me about TypeScript, Python, system design and MLOps
+- 🤖 Building LLM-powered products with the OpenAI API and LangChain
+- 🔎 Designing retrieval-augmented generation (RAG) with vector databases
+- 🔭 Shipping full-stack applications with Next.js, TypeScript and Python
+- 💬 Ask me about LLM apps, system design and MLOps
 
 ### 🛠 Tech Stack
 
@@ -17,7 +17,7 @@
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,aws,docker,kubernetes,terraform" />
 </p>
 
-**ML & Data:** PyTorch · Hugging Face Transformers · scikit-learn · MLflow · Airflow
+**AI & Data:** OpenAI API · LangChain · Hugging Face · Pinecone · pgvector · MLflow
 
 ### 📊 GitHub Stats
 
