@@ -1,27 +1,32 @@
-## Hi there, I'm Christian 👋
+<div align="center">
 
-**Senior Software Engineer** | Full-Stack & AI | 10 years of experience
+# Christian
 
-- 🤖 Building LLM-powered products with the OpenAI API and LangChain
-- 🔎 Designing retrieval-augmented generation (RAG) with vector databases
-- 🔭 Shipping full-stack applications with Next.js, TypeScript and Python
-- 💬 Ask me about LLM apps, system design and MLOps
+**Senior Software Engineer · Full-Stack & AI**
 
-### 🛠 Tech Stack
+</div>
+
+### About
+
+Senior software engineer with **10+ years of experience** building software
+end to end — from responsive frontends to scalable backends and cloud
+infrastructure. Lately focused on bringing **LLMs** into real products.
+
+- **Full-Stack** — web apps, APIs and distributed systems
+- **AI** — LLM integration, RAG and vector search
+- **Cloud** — AWS, Kubernetes, Terraform and CI/CD
+
+### Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,python,go,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=ts,python,go,react,nextjs,tailwind,nodejs,nestjs&perline=8" />
   <br />
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,graphql,postgres,redis" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,aws,docker,kubernetes,terraform" />
+  <img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,pytorch,aws,docker,kubernetes,terraform&perline=8" />
 </p>
 
-**AI & Data:** OpenAI API · LangChain · Hugging Face · Pinecone · pgvector · MLflow
+### GitHub Activity
 
-### 📊 GitHub Stats
-
-<p>
+<div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=christianavila703&show_icons=true&hide_border=true&bg_color=00000000" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianavila703&layout=compact&hide_border=true&bg_color=00000000" />
-</p>
+</div>
