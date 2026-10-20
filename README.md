@@ -1,35 +1,89 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=160&section=header&text=Christian&fontSize=50&fontColor=ffffff&fontAlignY=40" width="100%" alt="Christian" />
+<img src="./assets/header.svg" width="100%" alt="Christian — Senior Software Engineer · Full-Stack & AI" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=480&lines=Senior+Software+Engineer;Full-Stack+%26+AI+Development" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=680&lines=Building+AI-powered+products+end+to+end;LLMs+%E2%80%A2+RAG+%E2%80%A2+Agents+%E2%80%A2+Scalable+Web+Platforms;10%2B+years+of+shipping+production+software" alt="Typing tagline" />
 
 </div>
 
-### About
+<br />
 
-Senior software engineer with **10+ years of experience** building software
-end to end — from responsive frontends to scalable backends and cloud
-infrastructure. I focus on **AI-powered products**: integrating LLMs, building
-RAG pipelines and agentic workflows, and making them production-ready.
+```typescript
+const christian = {
+  role:       "Senior Software Engineer",
+  focus:      ["Full-Stack Development", "AI Engineering"],
+  experience: "10+ years",
+  building:   ["LLM-powered products", "RAG pipelines", "AI agents", "scalable platforms"],
+  principles: ["clean architecture", "pragmatic design", "ship, measure, iterate"],
+};
+```
 
-- **Full-Stack** — modern web apps, APIs and distributed systems
-- **AI** — LLMs, RAG, agents, tool use and evaluation
-- **Cloud** — AWS, GCP, Kubernetes, Terraform and CI/CD
+<br />
 
-### Tech Stack
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">Full-Stack</h3>
+      <p align="center">
+        Fast, accessible interfaces and robust APIs. From idea to production,
+        designed to scale and easy to maintain.
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">AI Engineering</h3>
+      <p align="center">
+        LLM integration, retrieval, agents and evaluation. Turning models
+        into reliable features users trust.
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">Cloud & DevOps</h3>
+      <p align="center">
+        Containerized, observable systems on AWS and GCP. Automated
+        pipelines and infrastructure as code.
+      </p>
+    </td>
+  </tr>
+</table>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,go,react,nextjs,vue,tailwind&perline=8" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,django,graphql,postgres,mongodb,redis&perline=8" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,aws,gcp,docker,kubernetes,terraform,githubactions&perline=8" />
-</p>
+<br />
 
-### GitHub Activity
+<h3 align="center">Tech Stack</h3>
+
+<table align="center">
+  <tr>
+    <td><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,js,python,go&theme=dark" height="40" alt="Languages" /></td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind&theme=dark" height="40" alt="Frontend" /></td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,django,graphql&theme=dark" height="40" alt="Backend" /></td>
+  </tr>
+  <tr>
+    <td><b>Data</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" height="40" alt="Data" /></td>
+  </tr>
+  <tr>
+    <td><b>AI / ML</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" height="40" alt="AI / ML" /><br />
+      <sub>LangChain · LlamaIndex · Hugging Face · OpenAI · Anthropic · pgvector</sub>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Cloud & DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,githubactions&theme=dark" height="40" alt="Cloud & DevOps" /></td>
+  </tr>
+</table>
+
+<br />
+
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=christianavila703&show_icons=true&hide_border=true&bg_color=00000000" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianavila703&layout=compact&hide_border=true&bg_color=00000000" />
+  <sub>Currently building production-grade AI systems — always open to interesting problems and great teams.</sub>
 </div>
