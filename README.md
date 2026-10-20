@@ -11,7 +11,7 @@
 ```typescript
 const christian = {
   role:       "Senior Software Engineer",
-  focus:      ["Full-Stack Development", "AI Engineering"],
+  focus:      ["Full-Stack Development", "AI Engineering", "SaaS Development"],
   experience: "10+ years",
   building:   ["LLM-powered products", "RAG pipelines", "AI agents", "scalable platforms"],
   principles: ["clean architecture", "pragmatic design", "ship, measure, iterate"],
@@ -23,10 +23,10 @@ const christian = {
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3 align="center">Full-Stack</h3>
+      <h3 align="center">Full-Stack & SaaS</h3>
       <p align="center">
-        Fast, accessible interfaces and robust APIs. From idea to production,
-        designed to scale and easy to maintain.
+        Building fast, accessible interfaces, robust APIs, and scalable SaaS platforms. 
+        From idea to production, designed to grow and easy to maintain.
       </p>
     </td>
     <td width="33%" valign="top">
