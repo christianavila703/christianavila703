@@ -20,6 +20,16 @@ const christian = {
 
 <br />
 
+<h3 align="center">Watch My Intro</h3>
+
+<p align="center">
+  <a href="https://youtu.be/QfUT--9gH6M">
+    <img src="./assets/thumbnail-play.svg" width="680" alt="Watch Christian's promotion video on YouTube" />
+  </a>
+</p>
+
+<br />
+
 <table>
   <tr>
     <td width="33%" valign="top">
